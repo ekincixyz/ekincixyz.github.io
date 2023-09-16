@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-My name is Lorem Ipsum.
+gm ٩(◕‿◕｡)۶
+
+I'm Emre and I work in the Ethereum ecosystem. I studied international business, specialized in business model innovation and did an internship at an online bank.
