@@ -18,8 +18,6 @@ Most recently, we released a new much requested feature: weighted revenue distri
 ## Data Unions smart contract activity
 The Swash Data Union smart contract crossed [500,000 transactions](https://dune.com/dataunions/smartcontracts) on Gnosis chain and Swash onboarded over 320,000 members from around the world.
 
-<iframe src="https://dune.com/embeds/1581544/2632791/671689e0-90a5-440a-9059-47833394b8af" height="300" width="100%" title="[Swash Data Union members]"></iframe>
-
 >“Streamr’s Data Union technology inspired the creation of the Swash app back in 2019. Now, Swash is thriving, with a community that are passionate about owning their data and the impact they can have on the future of the internet. The solution made possible with Streamr and their Data Union smart contracts, plus the support they’ve shown since day one, has been invaluable to the success of Swash and the evolution of the broader Web3 data economy.” – Chloë Diamond, CMO at Swash
 
 Connect your Browser to Swash to earn $SWASH while retaining your privacy.
