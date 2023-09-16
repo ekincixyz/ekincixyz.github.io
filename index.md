@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-My name is Lorem Ipsum. More [about me](/about/).
+Working on [Mystate](https://mystate.in/portugal). More [about me](/about/).
