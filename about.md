@@ -6,7 +6,7 @@ permalink: /about/
 
 gm ٩(◕‿◕｡)۶
 
-I'm Emre (28) and I work in the Ethereum ecosystem. I graduated in international business (BA), specialized in business model innovation and prior to working in crypto I was an intern at an online bank.
+I’m Emre (28), an international business graduate who interned at an online bank before entering the crypto world.
 
 I like photography, hiking and nomading.
 
