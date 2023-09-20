@@ -32,10 +32,15 @@ After experimenting with Streamr and Data Unions for their proof of concept DIMO
 
 ## Data Unions and similar trends
 DUs, PoPW, TIPIN or DePIN? What do all of these abbreviations have in common? They aim to describe the trend of utilizing [token incentives](https://dataunions.org/token-incentives/) for growing physical infrastructure networks.
+
 While Data Unions don’t differentiate between physical and digital infrastructure networks, they all utilize token incentives for growing networks. Networks of people and devices that are connected and serve a mutual goal. 
+
 The most recent new term that aims to describe this growing ecosystem is called DePIN: Decentralized Physical Infrastructure Networks, which has been introduced by Messari Crypto around [November 2022](https://twitter.com/messaricrypto/status/1588938954807869440?lang=en). DePIN has even made it into [Messari’s Crypto Thesis for 2023](https://messari.io/crypto-theses-for-2023) – as one of the top 10 trends to watch out for in web3. DIMO has also been mentioned in many of these reports, including the Drive-to-Earn Pro report and the DePIN sector map, both published by Messari Crypto.
+
 DePIN is a new take on TIPIN, which stands for Token Incentivized Physical Infrastructure Networks and was introduced by Lattice Capital in [July 2022](https://medium.com/@mikezajko_16091/token-incentivized-physical-infrastructure-networks-3548b3182d82), which they describe as crypto’s next big thing. They describe the TIPIN sector as projects leveraging token incentives that meets real world demand.
+
 Prior to TIPIN, we have Multicoin Capital releasing their Proof of Physical Work (PoPW) thesis in [April 2022](https://multicoin.capital/2022/04/05/proof-of-physical-work/). PoPW refers to “protocols that (…) incentivize people to do verifiable work that builds real-world infrastructure”. And again we are looking at the utilization of token incentives for people to do verifiable work, like to connect a dapp to your car or browser.
+
 Data Unions, in contrary to all of the new terms above, was first published by Streamr Network in 2020 and has been in development as early as 2019. Whether the industry will establish itself as DUs, DePIN or co – the naming is secondary, what is important is that there is a growing trend which means there will be a growing need for infrastructure to issue out token incentives – middleware that is customizable, scalable and secure – exactly what the Data Unions smart contracts and SDK offers.
 
 ## SIP-10 passed increasing allocatable tokens by 25%
