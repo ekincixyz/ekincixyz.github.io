@@ -2,7 +2,7 @@
 - international business graduate specialized in business model innovation.
 - business fluent in English (+4 more)
 
-  ## Experience
+## Experience
 Boostrapping project [Mystate]([url](https://mystate.in/portugal)https://mystate.in/portugal) (July 2023 - now)
 - Building a self-service platform for freelancers in Portugal to manage their certified e-invoices, accounting, tax, and tax reporting with onchain payment rails.
 - **Won the main, Gnosis, & Mina prize** at BUIDL Vietnam hackathon. Shipped [Safe Bank]([url](https://devfolio.co/projects/banking-protocol-d4ab)), an onchain neobank for wallet-IBAN payments using Safe and Monerium.
