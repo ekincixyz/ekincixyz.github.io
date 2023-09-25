@@ -32,3 +32,6 @@ ETH LisCon (2021)
 
 Holland Scholarship (2019)
 - Honoured as one of two students out of 70 course applicants based on excellent academic results, outstanding extracurricular engagement, and personal motivation.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/ekincixyz) | emre@ekinci.xyz
