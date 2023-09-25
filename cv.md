@@ -18,7 +18,7 @@ Marketing Manager, [Tixl]([url](https://web.archive.org/web/20210205101554/https
 
 ## Education
 BBA International Business, NHL Stenden University (2016 - 2021)
--** GPA: 3.8/4.0**; Thesis: Innovation of Fin-Tech banking subscription services to accelerate growth.
+- **GPA: 3.8/4.0**; Thesis: Innovation of Fin-Tech banking subscription services to accelerate growth.
 
 ## Award & volunteering
 ETH LisCon (2021)
