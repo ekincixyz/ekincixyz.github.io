@@ -1,1 +1,1 @@
-<img src="/assets/cv.pdf" alt="cv">
+<iframe src="/assets/cv.pdf" width="100%" height="100%"></iframe>
