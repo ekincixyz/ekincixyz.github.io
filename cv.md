@@ -8,7 +8,7 @@ Boostrapping project [Mystate](https://mystate.in/portugal) (July 2023 - now)
 - Building a self-service platform for freelancers in Portugal to manage their certified e-invoices, accounting, tax, and tax reporting with onchain payment rails.
 - **Won the main, Gnosis, & Mina prize** at BUIDL Vietnam hackathon. Shipped [Safe Bank](https://devfolio.co/projects/banking-protocol-d4ab), an onchain neobank for wallet-IBAN payments using Safe and Monerium.
 
-BizDev, Community & Socials Manager at [Streamr Network]([url](https://streamr.network/)) (2022 - July 2023)
+BizDev, Community & Socials Manager at [Streamr Network](https://streamr.network/) (2022 - July 2023)
 - **Led outreach to dev projects** within DePIN for integrating Streamr’s rail.dev tech connected the team with 13 core dev teams for potential integrations.
 - **Made Stani from Aave/Lens join**  [DDD: “DAOs, Degens & Drinks”](https://twitter.com/i/communities/1496995687111831555) Twitter community during DevConnect Amsterdam by creating hype and FOMO on Twitter.
 - **Grew the Data Union DAO twitter followers by 3x** by writing content, engaging with the audience, and holding online & IRL community events.
