@@ -8,9 +8,9 @@ Boostrapping project [Mystate]([url](https://mystate.in/portugal)https://mystate
 - **Won the main, Gnosis, & Mina prize** at BUIDL Vietnam hackathon. Shipped [Safe Bank]([url](https://devfolio.co/projects/banking-protocol-d4ab)), an onchain neobank for wallet-IBAN payments using Safe and Monerium.
 
 BizDev, Community & Socials Manager at [Streamr Network]([url](https://streamr.network/)) (2022 - July 2023)
-**- Led outreach to dev projects** within DePIN for integrating Streamr’s rail.dev tech connected the team with 13 core dev teams for potential integrations.
-**- Made Stani from Aave/Lens join**  [DDD: “DAOs, Degens & Drinks”]([url](https://twitter.com/i/communities/1496995687111831555)) Twitter community during DevConnect Amsterdam by creating hype and FOMO on Twitter.
-**- Grew the Data Union DAO twitter followers by 3x** by writing content, engaging with the audience, and holding online & IRL community events.
+- **Led outreach to dev projects** within DePIN for integrating Streamr’s rail.dev tech connected the team with 13 core dev teams for potential integrations.
+- **Made Stani from Aave/Lens join**  [DDD: “DAOs, Degens & Drinks”]([url](https://twitter.com/i/communities/1496995687111831555)) Twitter community during DevConnect Amsterdam by creating hype and FOMO on Twitter.
+- **Grew the Data Union DAO twitter followers by 3x** by writing content, engaging with the audience, and holding online & IRL community events.
 
 Marketing Manager, [Tixl]([url](https://web.archive.org/web/20210205101554/https://tixl.org/)) (pivoted to Autobahn Network) (2021 - 2022)
 - **Learned about Ethereum values**, wallets, security, and community building.
