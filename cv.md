@@ -1,10 +1,9 @@
 ---
 layout: page
-title: CV
+title: Emre Ekinci
 permalink: /cv/
 ---
 
-# Emre
 - +2.5 years experience working full-time in the Ethereum ecosystem within bizdev, community & marketing roles, prior to working in web3 intern at an online bank.
 - international business graduate specialized in business model innovation.
 - business fluent in English (+4 more)
