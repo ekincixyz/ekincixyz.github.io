@@ -10,7 +10,6 @@ permalink: /cv/
 
 ## Experience
 Boostrapping project [Mystate](https://mystate.in/portugal) (July 2023 - now)
-- Building a self-service platform for freelancers in Portugal to manage their certified e-invoices, accounting, tax, and tax reporting with onchain payment rails.
 - **Won the main, Gnosis, & Mina prize** at BUIDL Vietnam hackathon. Shipped [Safe Bank](https://devfolio.co/projects/banking-protocol-d4ab), an onchain neobank for wallet-IBAN payments using Safe and Monerium.
 
 BizDev, Community & Socials Manager at [Streamr Network](https://streamr.network/) (2022 - July 2023)
@@ -22,14 +21,22 @@ Marketing Manager, [Tixl](https://web.archive.org/web/20210205101554/https://tix
 - **Learned about Ethereum values**, wallets, security, and community building.
 - **Improved News Ads CTR by 70%** by experimenting with new creatives on the Brave Browser’s News product (beta), leading 700k readers to our medium blog.
 
+Performance Marketing Intern, [bunq](https://www.bunq.com/) (2021 - 2021)
+- **Improved CTR by over 25%** from website to Mobile App Store by AB testing copy on the homepage.
+- **Improved the experimenting processes** by improving the methodology and making the hypothesis design more accurate.
+
 ## Education
 BBA International Business, NHL Stenden University (2016 - 2021)
 - **GPA: 3.8/4.0**; Thesis: Innovating user-centric business models: innovation of financial banking subscription services to accelerate growth
 
-## Award & volunteering
-ETH LisCon (2021)
-- Volunteered during ETH LisCon in October ‘21, by which I had already worked nine months in crypto full-time. LisCon was what “crypto-pilled” me.
+## Volunteering
+DevConnect Istanbul (2023)
+- Volunteering during Devconnect in November '23 and organizing a Farcaster meetup [farconnect](https://farconnect.xyz/).
 
+ETH LisCon (2021)
+- Volunteered during ETH LisCon in October ‘21 by which I had already worked nine months in crypto full-time. LisCon was what “crypto-pilled” me.
+
+## Award
 Holland Scholarship (2019)
 - Honoured as one of two students out of 70 course applicants based on excellent academic results, outstanding extracurricular engagement, and personal motivation.
 
