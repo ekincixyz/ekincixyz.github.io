@@ -9,7 +9,7 @@ permalink: /cv/
 - business fluent in English (+4 more)
 
 ## Experience
-Boostrapping project [Mystate](https://mystate.in/portugal) (July 2023 - now)
+Bootstrapping project [Mystate](https://mystate.in/portugal) (July 2023 - now)
 - **Won the main, Gnosis, & Mina prize** at BUIDL Vietnam hackathon. Shipped [Safe Bank](https://devfolio.co/projects/banking-protocol-d4ab), an onchain neobank for wallet-IBAN payments using Safe and Monerium.
 
 BizDev, Community & Socials Manager at [Streamr Network](https://streamr.network/) (2022 - July 2023)
