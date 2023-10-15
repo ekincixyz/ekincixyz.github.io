@@ -21,7 +21,7 @@ Marketing Manager, [Tixl](https://web.archive.org/web/20210205101554/https://tix
 - **Learned about Ethereum values**, wallets, security, and community building.
 - **Improved News Ads CTR by 70%** by experimenting with new creatives on the Brave Browser’s News product (beta), leading 700k readers to our medium blog.
 
-Performance Marketing Intern, [bunq](https://www.bunq.com/) (2021 - 2021)
+Performance Marketing Intern, [bunq](https://www.bunq.com/) (2020 - 2020)
 - **Improved CTR by over 25%** from website to Mobile App Store by AB testing copy on the homepage.
 - **Improved the experimenting processes** by improving the methodology and making the hypothesis design more accurate.
 
