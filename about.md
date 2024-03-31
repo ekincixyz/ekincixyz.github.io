@@ -13,4 +13,4 @@ I like analog and polaroid photography, hiking, and nomading.
 ## Contact
 Send me a DM on [Farcaster](https://warpcast.com/ekinci.eth). 
 
-For Twitter, LinkedIn, and my favorite POAPs see my [Nimi](https://ekinci.eth.limo/).
+For Twitter, LinkedIn, GitHub, and my favorite POAPs see my [Nimi](https://ekinci.eth.limo/).
