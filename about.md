@@ -14,5 +14,3 @@ I like analog and polaroid photography, hiking, and nomading.
 Send me a DM on [Farcaster](https://warpcast.com/ekinci.eth). 
 
 For Twitter, LinkedIn, and my favorite POAPs see my [Nimi](https://ekinci.eth.limo/).
-
-To schedule a call you can use [cal.com/emree](https://cal.com/emree).
