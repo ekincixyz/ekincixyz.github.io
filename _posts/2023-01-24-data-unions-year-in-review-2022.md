@@ -1,5 +1,4 @@
 ---
-<!-- YYYY-MM-DD-title.md -->
 layout: post
 title:	Data Unions Year in Review 2022
 date:	2023-01-24
@@ -8,6 +7,7 @@ description: We shipped code, joined events, held talks, sponsored hackathons an
 ogimage: opengraphimage.jpeg
 
 ---
+<!-- YYYY-MM-DD-title.md -->
 
 We shipped code, joined events, held talks, sponsored hackathons and helped our little ecosystem develop and flourish. Here are some of our favorite milestones and news that we have enjoyed creating and reading about.
 
