@@ -9,12 +9,12 @@ Last updated: May 2024
 
 Significant token holdings (>5% of crypto portfolio):
 
-ETH
+- ETH
 
 Angel & VC investments:
 
-Absolutely none lol
+- Absolutely none lol
 
 Advisory positions:
 
-think again
+- helping out at /purple from July 20 till October-ish
