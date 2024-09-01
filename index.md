@@ -5,7 +5,8 @@ gm ٩(◕‿◕｡)۶
 
 Onchain since Block 12018821 (October 2021).
 Currently Growth Lead at Ackee. 
-Casting in [/motherlode](https://warpcast.com/~/channel/motherlode) about photography, hiking and nomading.
+
+My first ens was motherlode.eth, casting in [/motherlode](https://warpcast.com/~/channel/motherlode) about photography, hiking and nomading.
 
 ## About me
 I’m an international business graduate who interned at an online bank before entering the crypto world.
