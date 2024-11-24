@@ -8,7 +8,7 @@ permalink: /cv/
 - business fluent in English (+4 more)
 
 ## Experience
-Growth Lead at Ackee (Feb 2024 - now)
+Growth Lead at [Ackee](https://ackee.xyz/) (Feb 2024 - now)
 - Brand & Developer Growth
 - GTM for educational programs
 
