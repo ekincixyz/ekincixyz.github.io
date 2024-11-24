@@ -4,15 +4,18 @@ title: Emre Ekinci
 permalink: /cv/
 ---
 
-- +2.5 years experience working full-time in the Ethereum ecosystem within bizdev, community & marketing roles, prior to working in web3 intern at an online bank.
-- international business graduate specialized in business model innovation.
+- 4 years marketing experience working in crypto, prior intern at an online bank and international business graduate specialized in business model innovation.
 - business fluent in English (+4 more)
 
 ## Experience
-Bootstrapping project [Mystate](https://mystate.in/portugal) (July 2023 - now)
-- **Won the main, Gnosis, & Mina prize** at BUIDL Vietnam hackathon. Shipped [Safe Bank](https://devfolio.co/projects/banking-protocol-d4ab), an onchain neobank for wallet-IBAN payments using Safe and Monerium.
+Growth Lead at Ackee (Feb 2024 - now)
+- Brand & Developer Growth
+- GTM for educational programs
 
-BizDev, Community & Socials Manager at [Streamr Network](https://streamr.network/) (2022 - July 2023)
+Founder bootstrapping project [Mystate](https://mystate.in/portugal) (Jul 2023 - Feb 2024)
+- **Won the main hackathon, Gnosis & Mina prize** at BUIDL Vietnam. Shipped [Safe Bank](https://devfolio.co/projects/banking-protocol-d4ab), an onchain neobank for wallet-IBAN payments using Safe and Monerium.
+
+BizDev, Community & Socials Manager at [Streamr Network](https://streamr.network/) (2022 - Jul 2023)
 - **Led outreach to dev projects** within DePIN for integrating Streamr’s rail.dev tech connected the team with 13 core dev teams for potential integrations.
 - **Made Stani from Aave/Lens join**  [DDD: “DAOs, Degens & Drinks”](https://twitter.com/i/communities/1496995687111831555) Twitter community during DevConnect Amsterdam by creating hype and FOMO on Twitter.
 - **Grew the Data Union DAO twitter followers by 3x** by writing content, engaging with the audience, and holding online & IRL community events.
@@ -39,6 +42,3 @@ ETH LisCon (2021)
 ## Award
 Holland Scholarship (2019)
 - Honoured as one of two students out of 70 course applicants based on excellent academic results, outstanding extracurricular engagement, and personal motivation.
-
-## Contact
-[LinkedIn](https://www.linkedin.com/in/ekincixyz) | (fname)@(lname).xyz
