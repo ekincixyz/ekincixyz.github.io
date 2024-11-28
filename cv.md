@@ -4,11 +4,11 @@ title: Emre Ekinci
 permalink: /cv/
 ---
 
-- 4 years marketing experience working in crypto, prior intern at an online bank and international business graduate specialized in business model innovation.
-- business fluent in English (+4 more)
+- 4 years marketing experience working in crypto, prior intern at an online bank and international business graduate.
+- business fluent in English & German (+3 more)
 
 ## Experience
-Growth Lead at [Ackee](https://ackee.xyz/) (Feb 2024 - now)
+Growth Lead at [Ackee](https://ackee.xyz/) (Feb 2024 - Feb 2025)
 - Brand & Developer Growth
 - GTM for educational programs
 
@@ -30,7 +30,7 @@ Performance Marketing Intern, [bunq](https://www.bunq.com/) (2020 - 2020)
 
 ## Education
 BBA International Business, NHL Stenden University (2016 - 2021)
-- **GPA: 3.8/4.0**; Thesis: Innovating user-centric business models: innovation of financial banking subscription services to accelerate growth
+- **GPA: 3.8/4.0**; Thesis: Innovating user-centric business models: innovation of financial banking subscription services to accelerate growth.
 
 ## Volunteering
 DevConnect Istanbul (2023)
