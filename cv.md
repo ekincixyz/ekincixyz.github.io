@@ -3,12 +3,12 @@ layout: page
 title: Emre Ekinci
 permalink: /cv/
 ---
-# Emre Ekinci
 
 [Farcaster](https://warpcast.com/emr.eth) • [LinkedIn](https://www.linkedin.com/in/ekincixyz/) • [Schedule a call](https://cal.com/emree)
 
 Results-oriented marketing professional with over 4 years of experience working at crypto startups. Experienced storyteller, crafting on-brand copy, creatives, and marketing campaigns. Deep understanding of web3 technologies. Crypto native and business fluent in English.
 
+<br>
 
 ## Experience
 
@@ -35,6 +35,8 @@ Marketing Manager (Feb 2021 - Feb 2022)<br>
 Performance Marketing Intern (Apr 2020 - Sep 2020)<br>
 * **Drove a 25% increase in mobile App Store user acquisition** via A/B tested homepage copy, impacting millions of users; the same copy remains in use today.
 
+<br>
+
 ## Volunteering
 **Ethereum Foundation**<br>
 Content Creator (Nov 2023)<br>
@@ -47,6 +49,8 @@ Founder & host (Sep 2023 - Present)<br>
 **ETH LisCon**<br>
 Volunteer (Oct 2021)<br>
 * **Volunteerd during ETH LisCon in October 2021** by which I had already worked nine months in crypto full-time. LisCon was what “crypto-pilled” me.
+
+<br>
 
 ## Education
 **NHL Stenden University**<br> 
