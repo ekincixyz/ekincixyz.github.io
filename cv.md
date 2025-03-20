@@ -14,7 +14,7 @@ Results-oriented marketing professional with over 4 years of experience working 
 
 **Ackee Blockchain Security**<br>
 Marketing Growth Lead (Feb 2023 - Dec 2024)<br>
-* **Drove a 733% increase in combined educational program enrollment**, from 300 to 2,500 developer participants in three seasons, through strategic marketing initiatives, including YouTube, Email, and Twitter launch campaigns.* 
+* **Drove a 733% increase in combined educational program enrollment**, from 300 to 2,500 developer participants in three seasons, through strategic marketing initiatives, including YouTube, Email, and Twitter launch campaigns.
 * **Increased Twitter impressions by 200% per product launch**, consistently doubling impressions across multiple launches, through optimized creative, copy, and campaign strategies, transitioning to video content, and expanding launch partnerships.
 * **Expanded Ackee's developer ecosystem presence** through events, campaigns, and improved brand discoverability through SEO and socials like X and Farcaster.
 
