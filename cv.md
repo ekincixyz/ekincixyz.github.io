@@ -4,7 +4,7 @@ title: Emre Ekinci
 permalink: /cv/
 ---
 
-[Farcaster](https://warpcast.com/emr.eth) • [LinkedIn](https://www.linkedin.com/in/ekincixyz/) • [Schedule a call](https://cal.com/emree)
+[Farcaster](https://warpcast.com/emr.eth) • [LinkedIn](https://www.linkedin.com/in/ekincixyz/) • [CV One-Pager](https://drive.google.com/file/d/1Uvv8DvsqMAH9SckifFYPguXThN4vmOHi/view?usp=sharing) • [Schedule a call](https://cal.com/emree)
 
 Results-oriented marketing professional with over 4 years of experience working at crypto startups. Experienced storyteller, crafting on-brand copy, creatives, and marketing campaigns. Deep understanding of web3 technologies. Crypto native and business fluent in English.
 
