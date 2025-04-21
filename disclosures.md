@@ -15,7 +15,7 @@ Significant token holdings (>5% of crypto portfolio):
 - OP
 - ZK
 - GNO
-- USDE
+- EURC
 
 Angel & VC investments:
 
