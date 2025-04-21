@@ -5,16 +5,22 @@ permalink: /disclosures/
 ---
 I disclose my holdings and roles publicly and recuse myself from decision-making processes where conflicts may arise. My goal is to maintain the integrity of my research and contributions to the Ethereum ecosystem.
 
-Last updated: May 2024
+Last updated: Apr 2025
 
 Significant token holdings (>5% of crypto portfolio):
 
+- BTC
 - ETH
+- SOL
+- OP
+- ZK
+- GNO
+- USDE
 
 Angel & VC investments:
 
-- Absolutely none lol
+- None
 
 Advisory positions:
 
-- helping out at /purple from July 20 till October-ish
+- None
