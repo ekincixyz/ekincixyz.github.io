@@ -7,8 +7,6 @@ description: How do you incentivize the creation of real-world physical infrastr
 
 ---
 <!-- YYYY-MM-DD-title.md -->
-This post was originally published on dataunions.org on September 30, 2022.  
-
 How do you incentivize the creation of real-world physical infrastructure? And what role does decentralized digital technology, like the Streamr Network and the Data Union framework, play in that?  
 
 Together with DU DAO contributor and Head of Ecosystems of Streamr, Matt Fontana, we were invited to speak at this year’s Helium House in New York City. Alongside Danny O’Brian from the Filecoin Foundation and Ariel Seidman from Hivemapper, we embark on demystifying token incentives.  
