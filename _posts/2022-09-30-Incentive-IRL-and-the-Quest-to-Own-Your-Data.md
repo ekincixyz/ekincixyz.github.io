@@ -7,7 +7,7 @@ description: How do you incentivize the creation of real-world physical infrastr
 
 ---
 <!-- YYYY-MM-DD-title.md -->
-This post was first published on the dataunions.org blog.
+This post was originally published on dataunions.org on September 30, 2022.  
 
 How do you incentivize the creation of real-world physical infrastructure? And what role does decentralized digital technology, like the Streamr Network and the Data Union framework, play in that?  
 
