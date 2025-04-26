@@ -10,3 +10,7 @@ Onchain since Block 12018900 - March 2021. I’m an international business gradu
 
 ### Open source contributions
 - [Trident](https://github.com/ackee-blockchain/trident): Brand
+
+### Other
+- [GitHub](https://github.com/ekincixyz)
+- [Paragraph](https://paragraph.com/@emr)
