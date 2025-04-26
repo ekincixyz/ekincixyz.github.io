@@ -6,9 +6,6 @@ author:	Emre Ekinci
 description: Token incentives are as old as Bitcoin, miners provide computing power and earn BTC in return.  
 ---
 <!-- YYYY-MM-DD-title.md -->
-
-This post was originally published on dataunions.org on December 1, 2022.  
-
 Token incentives are as old as Bitcoin, miners provide computing power and earn BTC in return. Similarly, the Ethereum network has incentive structures in place for validators that stake ETH to secure the network.  
 
 # What are token incentives?
