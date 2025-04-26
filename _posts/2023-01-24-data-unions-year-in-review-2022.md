@@ -8,6 +8,7 @@ ogimage: opengraphimage.jpeg
 
 ---
 <!-- YYYY-MM-DD-title.md -->
+This post was originally published on dataunions.org on January 24, 2023.  
 
 We shipped code, joined events, held talks, sponsored hackathons and helped our little ecosystem develop and flourish. Here are some of our favorite milestones and news that we have enjoyed creating and reading about.
 
