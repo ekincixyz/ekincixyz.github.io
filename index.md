@@ -3,7 +3,7 @@ layout: home
 ---
 gm ٩(◕‿◕｡)۶
 
-Onchain since Block 12018900 - March 2021. I’m an international business graduate who interned at an online bank before entering the crypto world. Contact via [Farcaster](https://warpcast.com/emr.eth).
+Onchain since Block 12018900 - March 2021. I’m an international business graduate who interned at an online bank before entering the crypto world. Contact via [Farcaster](https://farcaster.xyz/emr.eth).
 
 
 ## Project contributions
